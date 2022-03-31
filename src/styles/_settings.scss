@@ -5,20 +5,10 @@
   --red: rgba(183, 21, 64, 1);
   --green: rgba(56, 173, 169, 1);
   --blue: rgba(106, 137, 204, 1);
-}
 
-/* LIGHT COLORS */
-.light {
   --primary: var(--white);
   --secondary: var(--black);
   --tertiary: var(--blue);
-}
-
-/* DARK COLORS */
-.dark {
-  --primary: var(--black);
-  --secondary: var(--white);
-  --tertiary: var(--green);
 }
 /****************/
 
